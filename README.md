@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header-v2.svg" width="100%" alt="Catedral gótica bajo la lluvia">
+  <img src="assets/header-v3.svg" width="100%" alt="Castillo gótico en un bosque oscuro con magia">
 </p>
 
 <p align="right">
